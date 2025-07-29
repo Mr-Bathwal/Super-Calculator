@@ -1,4 +1,4 @@
-import styles from "./display.module.css";
+import styles from "./Display.module.css";
 
 const Display = ({ expression }) => {
   return (
