@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import styles from "./App.module.css";
 import Buttoncontainer from "./components/Buttoncontainer";
-import Display from "./components/display";
+import Display from "./components/Display";
 
 function App() {
   const [expression, setExpression] = useState("");
